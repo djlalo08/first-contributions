@@ -4906,6 +4906,7 @@
 - [Anubhav](https://github.com/RajAnubhav)
 - [Alex63rm](https://github.com/alex63rm)
 - [Yacos](https://github.com/Yacoubou-seidou)
+- [David Lalo](https://github.com/djlalo08)
 - [ak](https://github.com)
 - [Huxixiaohai](https://github.com/Huxixiaohai)
 - [ng](https://github.com/joeng-ng)
